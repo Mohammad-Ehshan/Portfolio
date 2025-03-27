@@ -6,7 +6,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ehshan&apos; Portfolio", //Replace all apostrophes ' with &apos; or &#39;
+  title: "Ehshan Portfolio", //Replace all apostrophes ' with &apos; or &#39;
   description: "Developer",
 };
 
