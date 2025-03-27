@@ -2,10 +2,8 @@ import AboutMe from "@/components/aboutme";
 import Contact from "@/components/contact";
 import Projects from "@/components/projects";
 import TechStack from "@/components/techstack";
-import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
 import { HeroParallax } from "@/components/ui/hero-parallax";
-import { gridItems, products } from "@/Data/Index";
-import Image from "next/image";
+import { products } from "@/Data/Index";
 
 export default function Home() {
   return (

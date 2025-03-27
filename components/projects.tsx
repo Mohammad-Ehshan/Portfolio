@@ -3,7 +3,6 @@
 import { useRef } from "react"
 import { motion, useInView } from "framer-motion"
 import { ExternalLink } from "lucide-react"
-import { Button } from "@/components/ui/button"
 import TextReveal from "./ui/tech-reveal"
 import PinContainer from "./ui/pin-container"
 import { IoLogoGithub } from "react-icons/io5"
