@@ -112,7 +112,7 @@ export default function Projects() {
       description:
         "Generate dynamic questions, analyze responses in real time, and streamline hiring—all while giving candidates a seamless, modern experience.",
       achievement: "🏆 1× Finalist",
-      image: "/HireView.png",
+      image: "/Hireview.png",
       techStack: ["Next.js", "Artificial Intelligence", "ShadCN"],
       liveUrl: "https://hire-view-ehshan.vercel.app/",
       githubUrl: "https://github.com/Mohammad-Ehshan/HireView",
