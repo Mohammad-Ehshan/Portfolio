@@ -38,13 +38,13 @@ export default function Contact() {
       <div className="container mx-auto max-w-6xl">
         <TextReveal>
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
-            Let&apos;s <span className="text-primary">Connect</span>
+            const&apos;s <span className="text-primary">Connect</span>
           </h2>
         </TextReveal>
 
         <TextReveal delay={0.1}>
           <p className="text-muted-foreground text-center mb-12 max-w-2xl mx-auto">
-            Do you want to start a project together? I'm always open to discussing new opportunities and ideas.
+            Do you want to start a project together? I&apos;m always open to discussing new opportunities and ideas.
           </p>
         </TextReveal>
 
@@ -53,7 +53,7 @@ export default function Contact() {
             <motion.div variants={itemVariants} className="mb-8">
               <h3 className="text-2xl font-semibold mb-4">Get in Touch</h3>
               <p className="text-muted-foreground mb-6">
-                Fill out the form and I'll get back to you as soon as possible. Looking forward to hearing from you!
+                Fill out the form and I&apos;ll get back to you as soon as possible. Looking forward to hearing from you!
               </p>
             </motion.div>
 
@@ -76,7 +76,7 @@ export default function Contact() {
                 <label htmlFor="subject" className="text-sm font-medium">
                   Subject
                 </label>
-                <Input id="subject" placeholder="What's this about?" />
+                <Input id="subject" placeholder="What&apos;s this about?" />
               </div>
               <div className="space-y-2">
                 <label htmlFor="message" className="text-sm font-medium">
@@ -100,7 +100,7 @@ export default function Contact() {
               <motion.div variants={itemVariants} className="mb-8">
                 <h3 className="text-2xl font-semibold mb-4">Contact Information</h3>
                 <p className="text-muted-foreground mb-6">
-                  Prefer to reach out directly? Here's how you can contact me.
+                  Prefer to reach out directly? Here&apos;s how you can contact me.
                 </p>
               </motion.div>
 
@@ -141,7 +141,7 @@ export default function Contact() {
             >
               <h3 className="text-xl font-semibold mb-4">Do you want to start a project together?</h3>
               <p className="text-muted-foreground mb-4">
-                I'm always open to discussing new projects and ideas. Let's create something amazing together!
+                I&apos;m always open to discussing new projects and ideas. const&apos;s create something amazing together!
               </p>
               <Button variant="outline" className="flex items-center gap-2" onClick={handleCopyEmail}>
                 <Copy size={16} />

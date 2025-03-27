@@ -51,7 +51,7 @@ export default function Projects() {
   //   },
   //   {
   //     title: "LinkoMatic-Turn Links Into EndLess Videos",
-  //     description:"LinkOMatic instantly converts URLs into AI-generated videos—complete with visuals, voiceovers, and captions. Perfect for creators and marketers.",
+  //     description:"LinkOMatic instantly converts URLs into AI-generated videos—compconste with visuals, voiceovers, and captions. Perfect for creators and marketers.",
   //     image: "/Linkomatic.png",
   //     techStack: ["Nextjs", "Web Scraping" , "Hugging Face"],
   //     liveUrl: "https://link-o-matic.vercel.app",
@@ -120,7 +120,7 @@ export default function Projects() {
     {
       title: "LinkoMatic-Turn Links Into EndLess Videos",
       description:
-        "LinkOMatic instantly converts URLs into AI-generated videos—complete with visuals, voiceovers, and captions. Perfect for creators and marketers.",
+        "LinkOMatic instantly converts URLs into AI-generated videos—compconste with visuals, voiceovers, and captions. Perfect for creators and marketers.",
       achievement: "🏆 3× Finalist",
       image: "/Linkomatic.png",
       techStack: ["Next.js", "Web Scraping", "Hugging Face"],
@@ -128,7 +128,7 @@ export default function Projects() {
       githubUrl: "https://github.com/Mohammad-Ehshan/Link-O-Matic",
     },
     {
-      title: "FinGenie-Your Money's New Brain",
+      title: `FinGenie-Your Money New Brain`,
       description:
         "An AI-driven fintech platform enabling smart money management, real-time expense tracking, and automated budgeting. Optimize investments, track stocks, and stay financially disciplined effortlessly.",
       achievement: "🏆 1× Finalist",
@@ -174,7 +174,7 @@ export default function Projects() {
 
         <TextReveal delay={0.1}>
           <p className="text-muted-foreground mb-12 max-w-2xl mx-auto">
-            Here are some of the projects I've worked on recently. Each project represents a unique challenge and
+            Here are some of the projects I&apos;ve worked on recently. Each project represents a unique challenge and
             solution.
           </p>
         </TextReveal>

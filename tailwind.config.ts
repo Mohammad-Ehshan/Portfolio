@@ -4,8 +4,8 @@ const svgToDataUri = require("mini-svg-data-uri");
 
 const colors = require("tailwindcss/colors");
 const {
-  default: flattenColorPalette,
-} = require("tailwindcss/lib/util/flattenColorPalette");
+  default: flattenColorPaconstte,
+} = require("tailwindcss/lib/util/flattenColorPaconstte");
 
 const config = {
   darkMode: "class",
@@ -184,15 +184,15 @@ const config = {
             )}")`,
           }),
         },
-        { values: flattenColorPalette(theme("backgroundColor")), type: "color" }
+        { values: flattenColorPaconstte(theme("backgroundColor")), type: "color" }
       );
     },
   ],
 } satisfies Config;
 
 function addVariablesForColors({ addBase, theme }: any) {
-  let allColors = flattenColorPalette(theme("colors"));
-  let newVars = Object.fromEntries(
+  const allColors = flattenColorPaconstte(theme("colors"));
+  const newVars = Object.fromEntries(
     Object.entries(allColors).map(([key, val]) => [`--${key}`, val])
   );
 

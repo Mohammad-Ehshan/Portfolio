@@ -9,7 +9,6 @@ import {
 } from "motion/react";
 import Image from "next/image";
 import Link from "next/link";
-import  Stats  from "@/components/stats";
 
 export const HeroParallax = ({
   products,
@@ -106,10 +105,10 @@ export const Header = () => {
   return (
     <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
       <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-      Decrypted <br /> Ehshan's Secret
+      Decrypted <br /> Ehshan&apos;s Secret
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-      A problem solver at heart—building AI-driven solutions, mastering Next.js & MERN, and tackling 200+ DSA challenges. Finalist in 10+ hackathons. Let’s innovate together!
+      A problem solver at heart—building AI-driven solutions, mastering Next.js & MERN, and tackling 200+ DSA challenges. Finalist in 10+ hackathons. const’s innovate together!
       {/* <Stats/> */}
       </p>
     </div>

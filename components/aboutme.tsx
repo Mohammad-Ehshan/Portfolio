@@ -51,7 +51,7 @@ export default function AboutMe() {
           >
             <h3 className="text-xl font-semibold mb-4">Tech enthusiast with a passion for development.</h3>
             <p className="text-muted-foreground">
-              I'm a full-stack developer with a passion for building innovative solutions to real-world problems. With
+              I&apos;m a full-stack developer with a passion for building innovative solutions to real-world problems. With
               expertise in modern web technologies and a background in competitive programming, I bring a unique blend
               of technical skills and creative problem-solving to every project.
             </p>
