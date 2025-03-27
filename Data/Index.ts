@@ -2,17 +2,17 @@
 export const products = [
   {
     title: "PravasiPath",
-    link: "/products/rogue",
+    link: "https://pravasipath.netlify.app",
     thumbnail: "/Pravaipath.png",
   },
   {
     title: "HireView",
-    link: "/products/rogue",
+    link: "https://hire-view-ehshan.vercel.app",
     thumbnail: "/Hireview.png",
   },
   {
     title: "Fingenie",
-    link: "/products/rogue",
+    link: "https://drive.google.com/file/d/1Q-XKO9OJHx1VL-s2EZl5qY3pwTA90CE1/view?usp=sharing",
     thumbnail: "/Fingenie.png",
   },
   {
@@ -22,7 +22,7 @@ export const products = [
   },
   {
     title: "GreenMind",
-    link: "/products/moonbeam",
+    link: "https://youtu.be/SrxGfVA_-V8",
     thumbnail: "/Greenmind.jpg",
   },
   {
@@ -37,12 +37,12 @@ export const products = [
   },
   {
     title: "RushLess",
-    link: "/products/rogue",
+    link: "https://drive.google.com/file/d/1K4qwthAsoI-VMZy1RwBq-8OZEntbrC6D/view?usp=sharing",
     thumbnail: "/RushLess.png",
   },
   {
     title: "Narrato",
-    link: "/products/rogue",
+    link: "https://narrato-zeta.vercel.app",
     thumbnail: "/Narrato.png",
   },
   {

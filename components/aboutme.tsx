@@ -11,8 +11,8 @@ export default function AboutMe() {
 
   const stats = [
     { value: 30, label: "Hackathons" },
+    { value: 15, label: "Offline" },
     { value: 10, label: "Finalist" },
-    { value: 5, label: "Winner" },
   ]
 
   const containerVariants = {

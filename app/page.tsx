@@ -1,4 +1,5 @@
 import AboutMe from "@/components/aboutme";
+import Contact from "@/components/contact";
 import Projects from "@/components/projects";
 import TechStack from "@/components/techstack";
 import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
@@ -11,8 +12,9 @@ export default function Home() {
    <>
    <HeroParallax products={products}/>
    <AboutMe/>
-   <TechStack/>
    <Projects/>
+   <TechStack/> 
+   <Contact/>
 
    {/* it was making teh parallax effect slow  */}
    {/* <BentoGrid className="mx-24">
