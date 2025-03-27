@@ -38,7 +38,7 @@ export default function Contact() {
       <div className="container mx-auto max-w-6xl">
         <TextReveal>
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
-            const&apos;s <span className="text-primary">Connect</span>
+            Let&apos;s <span className="text-primary">Connect</span>
           </h2>
         </TextReveal>
 
