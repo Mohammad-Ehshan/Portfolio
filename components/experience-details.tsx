@@ -108,7 +108,7 @@ export default function ExperienceDetail({ experience }: { experience: Experienc
                 className="glass rounded-xl p-6 border border-white/10"
               >
                 <h3 className="text-xl font-semibold mb-4">Testimonial</h3>
-                <blockquote className="text-white/80 italic mb-4">"{experience.testimonial.quote}"</blockquote>
+                <blockquote className="text-white/80 italic mb-4">{experience.testimonial.quote}</blockquote>
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-gradient-to-r from-violet-500 to-blue-500 flex items-center justify-center text-white font-bold">
                     {experience.testimonial.author.charAt(0)}
