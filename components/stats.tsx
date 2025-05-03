@@ -4,7 +4,7 @@ import type React from "react"
 
 import { motion, useInView } from "framer-motion"
 import { useRef, useState, useEffect } from "react"
-import { Github, Award, Briefcase, FileText, Linkedin } from "lucide-react"
+import {  Award, Briefcase, FileText, Linkedin } from "lucide-react"
 import Link from "next/link"
 
 export default function Stats() {

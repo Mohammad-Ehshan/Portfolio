@@ -33,7 +33,6 @@ export default function ExperienceHome() {
 
 function TimelineItem({
   experience,
-  index,
 }: {
   experience: {
     id: number
@@ -46,7 +45,7 @@ function TimelineItem({
   index: number
 }) {
   const itemRef = useRef(null)
-  const { scrollYProgress } = useScroll({
+  const { } = useScroll({
     target: itemRef,
     offset: ["start end", "center center"],
   })
