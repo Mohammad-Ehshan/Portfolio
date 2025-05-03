@@ -637,3 +637,4 @@ export const experiences: Experience[] = [
 export function getExperienceById(id: number): Experience | undefined {
   return experiences.find((experience) => experience.id === id)
 }
+
