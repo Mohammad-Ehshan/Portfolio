@@ -34,7 +34,7 @@ export default function Stats() {
       icon: <FileText className="w-5 h-5" />,
       value: 0,
       label: "Resume",
-      link: "/ehshan 76.pdf",
+      link: "/Ehshan 76.pdf",
     },
   ]
 
