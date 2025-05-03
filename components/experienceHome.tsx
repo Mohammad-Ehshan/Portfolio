@@ -6,7 +6,6 @@ import Image from "next/image"
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 import { experiencesHome } from "@/Data/Index"
-import { Button } from "./ui/button"
 
 export default function ExperienceHome() {
   const ref = useRef(null)

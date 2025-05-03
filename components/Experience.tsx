@@ -1,5 +1,4 @@
 import ExperienceHome from "./experienceHome"
-import Timeline from "./Timeline"
 
 export default function ExperiencePage() {
   return (

@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import Image from "next/image"
 import Link from "next/link"
 import { ArrowLeft, Building, MapPin, Calendar } from "lucide-react"
-import { Experience, experiences } from "@/Data/Index"
+import { Experience } from "@/Data/Index"
 
 export default function ExperienceDetail({ experience }: { experience: Experience }) {
   return (

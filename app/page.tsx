@@ -6,7 +6,7 @@ import Stats from "@/components/stats";
 import TechStack from "@/components/techstack";
 import { Button } from "@/components/ui/button";
 import { HeroParallax } from "@/components/ui/hero-parallax";
-import { gridItems, products } from "@/Data/Index";
+import { products } from "@/Data/Index";
 import Link from "next/link";
 // import { BentoGrid,BentoGridItem } from "@/components/ui/bento-grid";
 
