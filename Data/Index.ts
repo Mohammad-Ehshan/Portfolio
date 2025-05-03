@@ -204,7 +204,7 @@ export const experiencesHome: Experience[] = [
     ],
     testimonial: {
       quote: "The internship at Zordie AI is helping me grow as a full stack developer, allowing me to learn from experienced professionals.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Intern at Zordie AI"
     },
   },
@@ -237,7 +237,7 @@ export const experiencesHome: Experience[] = [
     ],
     testimonial: {
       quote: "Being a mentor at HackHazard'25 was an incredible experience. Helping thousands of developers grow and solve real-world problems was very rewarding.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Mentor at HackHazard'25"
     },
   },
@@ -270,7 +270,7 @@ export const experiencesHome: Experience[] = [
     ],
     testimonial: {
       quote: "The hackathon was an intense and challenging experience that helped me push my limits and grow as a developer. I'm proud of the outcome.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Runner-Up at Avinya'25"
     },
   }
@@ -306,7 +306,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "The internship at Zordie AI is helping me grow as a full stack developer, allowing me to learn from experienced professionals.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Intern at Zordie AI"
     },
   },
@@ -339,7 +339,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "Being a mentor at HackHazard'25 was an incredible experience. Helping thousands of developers grow and solve real-world problems was very rewarding.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Mentor at HackHazard'25"
     },
   },
@@ -367,12 +367,12 @@ export const experiences: Experience[] = [
     technologies: ["React", "Node.js", "MongoDB", "AWS", "JavaScript"],
     achievements: [
       "Secured runner-up position in a hackathon with 2000+ participants",
-      "Built a fully functional web app within a 48-hour time frame",
+      "Built a fully functional web app within a 24-hour time frame",
       "Worked under tight deadlines and demonstrated strong teamwork"
     ],
     testimonial: {
       quote: "The hackathon was an intense and challenging experience that helped me push my limits and grow as a developer. I'm proud of the outcome.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Runner-Up at Avinya'25"
     },
   },
@@ -405,7 +405,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "We aimed to solve real-world traffic chaos through Rushless — a fusion of AI, IoT, and civic insight. The experience was intense and eye-opening.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Finalist, CodeForge Hackathon"
     }
   },
@@ -438,7 +438,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "Sometimes you learn more from things that go wrong. This event taught me how chaos tests creativity and resilience.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Participant at 0 to 1 Hackathon"
     }
   },
@@ -471,7 +471,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "HackWithImpact showed me how innovation and empathy can intersect — especially in civic infrastructure.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Participant at HackWithImpact"
     }
   },
@@ -504,7 +504,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "Hack’24 proved that when you're thrown into the deep end, you learn fast — especially with Docker and devops tools.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Participant at Hack24"
     }
   },
@@ -538,7 +538,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "Code Innovators taught me that impossible deadlines reveal true potential. Stepping into unknown tech territories accelerates growth.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Finalist at Code Innovators"
     }
   },
@@ -568,7 +568,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "AI Horizon proved that tight constraints breed creativity. Building an emotional support AI in 5 hours was both challenging and rewarding.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Participant at AI Horizon"
     }
   },
@@ -598,7 +598,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "HackFinance highlighted the complex balance between technical execution and business viability in fintech solutions.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Participant at HackFinance"
     }
   },
@@ -628,7 +628,7 @@ export const experiences: Experience[] = [
     ],
     testimonial: {
       quote: "The Ideathon taught me that impactful solutions require both technical merit and compelling storytelling.",
-      author: "Your Name",
+      author: "Mohammad Ehshan",
       position: "Semi-Finalist at Smart Delhi Ideathon"
     }
   }
